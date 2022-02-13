@@ -16,7 +16,6 @@ setup(
         "flask-marshmallow",
         "marshmallow-sqlalchemy",
         "python-dotenv",
-        "passlib",
         "apispec[yaml]",
         "apispec-webframeworks",
     ]

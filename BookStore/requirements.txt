@@ -2,6 +2,7 @@ marshmallow>=3
 requests==2.26.0
 flask
 flask-restful
+flask-jwt-extended
 flask-migrate
 flask-sqlalchemy
 flask-marshmallow
@@ -12,4 +13,3 @@ apispec-webframeworks
 tox
 SQLAlchemy<1.4.0
 mysqlclient
-

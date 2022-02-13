@@ -1,0 +1,8 @@
+FLASK_ENV=development
+FLASK_APP=BookStore/BookStore.app:create_app
+SECRET_KEY=changeme
+MYSQL_USER=root
+MYSQL_PASSWORD=root
+MYSQL_DATABASE=main
+MYSQL_ROOT_PASSWORD=root
+MYSQL_HOST=db

@@ -1,0 +1,3 @@
+FLASK_ENV=development
+FLASK_APP=CountOccurrences/CountOccurrences.app:create_app
+SECRET_KEY=changeme 

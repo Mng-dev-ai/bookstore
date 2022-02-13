@@ -1,0 +1,4 @@
+requests==2.26.0
+flask
+flask-restful
+python-dotenv
